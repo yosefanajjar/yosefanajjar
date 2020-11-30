@@ -19,3 +19,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Articles I have written:
+- [How to work effectivly from home](https://yosefanajjar.medium.com/how-to-effectively-work-from-home-737a9a411638)
+- [Building a design system in React](https://zaat.dev/blog/building-a-design-system-in-react-with-styled-components/)
+
+### Workshops I have given:
+- [Responsive design basics](https://hackmd.io/@yosefanajjar/Bke7i53gU)
+- [CSS Animations](https://hackmd.io/@yosefanajjar/SJTXyi3gL)
