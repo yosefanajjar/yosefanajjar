@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yosef
 - 🔭 I’m currently working on React and Node applications
-- 🌱 I’m currently learning Google Cloud Platform
+- 🌱 I’m currently learning AWS
 - 💬 Ask me about how to get into web development
 - 📫 How to reach me: DM me on twitter @yosefanajjar
 - ⚡ Fun fact: I'm an organization freak and cleanaholic
